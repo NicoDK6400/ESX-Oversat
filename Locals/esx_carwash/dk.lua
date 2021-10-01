@@ -5,5 +5,5 @@ Locales['dk'] = {
   ['wash_failed_clean'] = 'Dit køretøj er rent!',
   ['wash_successful'] = 'Dit køretøj vaskes, vent venligst...',
   ['wash_successful_paid'] = 'Dit køretøj blev vasket for ~g~kr.%s~s~',
-  ['blip_carwash'] = 'Car Wash',
+  ['blip_carwash'] = 'Bilvask',
 }
