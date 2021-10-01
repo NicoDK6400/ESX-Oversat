@@ -1,11 +1,11 @@
 Locales['dk'] = {
-  ['show_registration'] = 'vis Registrerings Menuen',
-  ['show_active_character'] = 'vis aktive karaktere',
+  ['show_registration'] = 'Vis Registrerings Menuen',
+  ['show_active_character'] = 'Vis aktive karaktere',
   ['delete_character'] = 'Slet din karakter og en ny',
-  ['deleted_character'] = 'din karaktere er blevet slettet.',
-  ['not_registered'] = 'du har ikke en karakter registeret.',
-  ['active_character'] = '~b~aktive karaktere:~s~ %s %s',
-  ['already_registered'] = 'du har allerede en karakter registeret.',
-  ['failed_identity'] = 'fejlede at indlæse din karakter, prøv igen senere eller kontakt en admin/udvikler!',
+  ['deleted_character'] = 'Din karaktere er blevet slettet.',
+  ['not_registered'] = 'Du har ikke en karakter registeret.',
+  ['active_character'] = '~b~Aktive karaktere:~s~ %s %s',
+  ['already_registered'] = 'Du har allerede en karakter registeret.',
+  ['failed_identity'] = 'Fejlede at indlæse din karakter, prøv igen senere eller kontakt en admin/udvikler!',
   ['create_a_character'] = 'Du skal have lavet dig en karakter før du kan RP.'
 }
